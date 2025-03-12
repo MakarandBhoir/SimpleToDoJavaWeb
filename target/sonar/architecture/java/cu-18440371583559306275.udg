@@ -1,0 +1,156 @@
+
+1.0 com.example:simple-todo-java-webJavaFrontend"1741793543717*java2.BÂ
+<
+7src/main/java/com/example/todo/service/TodoService.java2
+
+package4
+
+com.example.todo.service5
+)
+$com.example.todo.service.TodoService7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+TodoService12
+5
+/com.example.todo.service.TodoService.SECRET_KEY14
+
+field15
+
+private16
+
+
+SECRET_KEY17
+R
+Lcom.example.todo.service.TodoService#addTodo(Lcom/example/todo/model/Todo;)V19
+
+method20
+
+addTodo21
+!
+com.example.todo.model.Todo23
+
+unknown24
+
+	has param25
+
+is type26
+
+
+uses27
+J
+Dcom.example.todo.service.TodoService#deleteTodo(Ljava/lang/String;)V29
+
+
+deleteTodo30
+\
+Vcom.example.todo.service.TodoService#updateTodo(Ljava/lang/String;Ljava/lang/String;)V32
+
+
+updateTodo33
+H
+Bcom.example.todo.service.TodoService#getAllTodos()Ljava/util/List;35
+
+getAllTodos36J
+
+1
+12Z
+
+3	
+354j™
+@
+28:
+282920 *
+1 (26:3B
+	
+9
+10
+
+
+11
+30
+@
+13:
+131415 *
+1 (26:3B
+	
+9
+16
+
+
+11
+17
+
+22
+222324
+@
+31:
+313220 *
+1 (26:3B
+	
+9
+10
+
+
+11
+33
+@
+34:
+343520 *
+1 (26:3B
+	
+9
+10
+
+
+11
+36
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181920 *
+1
+ 
+(26:3B
+	
+9
+10
+
+
+11
+21rl
+
+182225*
+1
+ 
+(
+
+182226*
+1
+ 
+("
+
+182227*
+1
+ 
+(
+
+342227*
+1 (

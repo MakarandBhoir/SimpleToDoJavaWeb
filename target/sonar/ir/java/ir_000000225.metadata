@@ -1,0 +1,5 @@
+com.example.todo.controller.Test#instance-init#
+false
+650a532b3e093951ae54b0c361443f7e
+java.lang.Class#getName()Ljava/lang/String;
+java.util.logging.Logger#getLogger(Ljava/lang/String;)Ljava/util/logging/Logger;

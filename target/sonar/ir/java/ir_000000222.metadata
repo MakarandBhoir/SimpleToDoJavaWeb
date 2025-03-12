@@ -1,0 +1,5 @@
+com.example.todo.controller.TodoController#getAllTodos()Ljava/util/List;
+false
+0a632bb335a1b582f21627e9fde215da
+==
+getAllTodos com.example.todo.service.TodoService#getAllTodos()Ljava/util/List;

@@ -4,6 +4,7 @@ import java.util.logging.Logger;
 
 public class Test {
     // Create a duplicate code so that sonar cloud can detect it
+    // dummy change
     Logger logger = Logger.getLogger(Test.class.getName());
 
     public void duplicateCode() {
